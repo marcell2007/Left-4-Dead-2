@@ -1,1 +1,23 @@
-INDEX
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="ITF-8">
+        <title>Left 4 Dead</title>
+    </head>
+    <body>
+            <dl>
+                <dt>Zsoké/Jockey</dt>
+                    <dd>
+
+                    </dd>
+                <dt>Vadász/Hunter</dt>
+                    <dd>
+                         A <u>Hunter</u> egy agilis különleges fertőzött , akinek a mutáció hihetetlen erőt és mozgékonyságot adott. A Left 4 Deadben és a Left 4 Dead 2-ben is az a szerepe, hogy megölje vagy súlyosan megsebesítse a társaitól elszakadt túlélőket . 
+                     </dd>
+                <dt>Boszorkány/Witch</dt>
+                    <dd>
+
+                    </dd>
+            </dl>
+    </body>
+</html>
