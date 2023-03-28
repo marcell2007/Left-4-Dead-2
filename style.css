@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(to bottom right, rgb(140, 0, 0), rgb(151, 123, 0), rgb(255, 132, 0), rgb(47, 47, 47));
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-align: center;
+    font-size: 350%;
+}
+
+h1:hover {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+
+p, li{
+    font-size: 90%;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+h2, h3{
+    font-size: 115;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2:hover  {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+
+h3:hover  {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+dt {
+    font-size: 175%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+dt:hover {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+dd {
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);  
+    padding: 35px;
+    text-align: center;
+}
+dd:hover {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
