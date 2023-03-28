@@ -3,20 +3,42 @@
     <head>
         <meta charset="ITF-8">
         <title>Left 4 Dead</title>
+        <link rel="stylesheet" href="stilus.css">
     </head>
     <body>
+    <p>Zombik</p>
             <dl>
                 <dt>Zsoké/Jockey</dt>
                     <dd>
-
+                        A Zsoké egy speciális fertőzött , amely a Left 4 Dead 2-ben jelenik meg . Képes ráugrani a túlélőkre , belekapaszkodni a fejükbe és a hátuk felső részébe. Onnan irányítja a túlélőt, miközben az arcukat karmolja.
                     </dd>
                 <dt>Vadász/Hunter</dt>
                     <dd>
-                         A <u>Hunter</u> egy agilis különleges fertőzött , akinek a mutáció hihetetlen erőt és mozgékonyságot adott. A Left 4 Deadben és a Left 4 Dead 2-ben is az a szerepe, hogy megölje vagy súlyosan megsebesítse a társaitól elszakadt túlélőket . 
+                         A Vadász egy agilis különleges fertőzött , akinek a mutáció hihetetlen erőt és mozgékonyságot adott. A Left 4 Deadben és a Left 4 Dead 2-ben is az a szerepe, hogy megölje vagy súlyosan megsebesítse a társaitól elszakadt túlélőket . 
                      </dd>
                 <dt>Boszorkány/Witch</dt>
                     <dd>
-
+                        A Boszorkány egy különleges fertőzött , aki kezdetben nem ellenséges, és mindig szunnyadó ülő vagy lassú járás állapotban található. Ha azonban megijednek vagy megtámadják, azonnal mozgássképtelenné tehet, vagy akár meg is ölhet egy játékost. Ő az egyetlen nem játszható különgles fertőzött.
+                    </dd>
+                <dt>Rohanó/Charger</dt>
+                    <dd>
+                        A Rohanó egy különleges fertőzött, amelyet a Left 4 Dead 2- ben mutattak be. Fő célja, hogy szétválasszon egy csoport túlélőt , akik közel vannak egymáshoz úgy, hogy megragadják az egyiket, és magukkal viszik őket, miközben a csoport többi tagjának ütköznek és ezért ők a levegőben repülnek. Noha megfelel a túlélők tempójának, rohanás közben jelentősen felgyorsul. A Rohanó azonban nem tud megállni vagy elfordulni rohanás közben, amíg falhoz nem ütközik vagy meg nem tesz egy bizonyos távolságot.
+                    </dd>
+                <dt>Tank</dt>
+                    <dd>
+                        A Tank vitathatatlanul a legerősebb különleges fertőzött a játékban a Boszorkány/Witch mellett , kombinált nyers erejének és mozgékonyságának köszönhetően. Hacsak a csapat nem dolgozik együtt egy tank legyőzésén, egész osztagokat pusztíthat el segítséggel vagy anélkül.
+                    </dd>
+                <dt>Köpködő/Spitter</dt>
+                    <dd>
+                        A Köpködő egy különleges fertőzött, aki a Left 4 Dead 2-ben debütált . Mutációi lehetővé teszik számára, hogy kiköpjön egy mutáns gyomorsavgolyót, amely a földet érve egy nagy medencévé terjed. Bármely túlélő, aki a savhalmazban áll, egyre nagyobb sebzést szenved el attól függően, hogy mennyi ideig volt a földön a sav; ez akár 76 életerő is lehet egyetlen köpéssel.
+                    </dd>
+                <dt>Füstös/Smoker</dt>
+                    <dd>
+                        A Füstös egy különleges fertőzött, amelyet rendkívül hosszú nyelve jellemez. A Füstös nyelvét nagy sebességgel ki tudja lőni a szájából egy túlélő felé, és amikor eléri valamelyiket, automatikusan a célpont teste köré tekeredik, és visszarántja a Füstös felé, ahol elkezdi karmolni őket. Ha akadály van az úton, akkor a nyelv megfeszül, és elkezdi fojtani a célpontot.
+                    </dd>
+                <dt>Pukkancs/Boomer</dt>
+                    <dd>
+                        A Pukkancs egy rendkívül pufi speciális fertőzött. A mutációjuk miatt hatalmas mennyiségű epét termelnek, amit megpróbálnak ráhányni a túlélőkre, átmenetileg megvakítva őket és egy kis Hordát idézve. Bár törékeny és lassú, a Pukkancs veszélyes lehet egy túlélő csapat számára, akiknek egészsége vagy harci képességei alacsonyak.
                     </dd>
             </dl>
     </body>
