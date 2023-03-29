@@ -16,16 +16,18 @@ h1:hover {
 }
 
 p, li{
-    font-size: 90%;
+    font-size: 175%;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 
 h2, h3{
-    font-size: 115;
+    font-size: 185%;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 5px rgb(0, 0, 0);
     text-align: center;
+    background: linear-gradient(to bottom right, rgb(230, 188, 0));
+    background-attachment: fixed;
 }
 
 h2:hover  {
@@ -56,6 +58,16 @@ dd {
     text-align: center;
 }
 dd:hover {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+a {
+    text-align: center;
+    font-size: 375%;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+a:hover {
     color: rgb(0, 0, 0);
     text-shadow: 2px 2px 5px rgb(255, 255, 255);
 }
